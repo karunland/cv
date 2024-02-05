@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-image: url('./images/emoji-ffe7bd-1920x1080.png');
 }
 
 .box {
